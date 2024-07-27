@@ -17,4 +17,7 @@ As informações podem facilitar muito nossas vidas e também facilitar nosso tr
 conforme você utiliza, ela se adequa ao tipo de resposta que você está acostumado e gostaria de receber, ela também aprende ao melhor tipo
 de informação que você entende melhor.
 
+![Captura de tela 2024-07-27 204159](https://github.com/user-attachments/assets/d8e2e314-da08-4e56-a032-7e87f5a0f1a8)
+
+
 
